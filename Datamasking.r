@@ -1,4 +1,4 @@
-ibrary(sdcMicro) ##obtain the sdcMicro from the library.
+Library(sdcMicro) ##obtain the sdcMicro from the library.
 data("SalaryTaxes")##obtain the data from the database.
 ##I will use the build in function to do the rankswapping.
 ##print(SalaryTaxes) To see if it works or not
